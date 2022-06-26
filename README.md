@@ -2,7 +2,7 @@
 
 
 <p align="center" width="100%">
-  <video src="public/images/readme01.mp4" />
+  <img src="public/images/readme01.gif" />
  
 </p>
 
